@@ -1,0 +1,10 @@
+engineered_data.csv
+*.csv
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
